@@ -42,10 +42,5 @@ Download Strideon now and revolutionize your approach to task management!
    ```bash
    git clone https://github.com/nexaerio/strideon.git
 
-    ```bash
-
-   cd strideon-app
-
-    ```bash
-
-   flutter pub get
+```bash
+cd strideon-app
