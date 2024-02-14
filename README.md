@@ -49,4 +49,7 @@ cd strideon-app
 ```bash
 flutter pub get
 
+##Contributing 🤝
+**We welcome contributions! Please follow the guidelines outlined in CONTRIBUTING.md.**
+
 
