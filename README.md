@@ -45,7 +45,7 @@ Follow these steps to set up and run Strideon on your local machine:
    git clone https://github.com/nexaerio/strideon.git
 
 2. **Navigate to the project directory:**
- ``bash
+ ```bash
 cd strideon-app
 
     
