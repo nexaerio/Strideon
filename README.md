@@ -1,6 +1,6 @@
 # Strideon - Elevate Your Efficiency 🚀
 
-![Strideon Logo](link-to-your-logo.png)
+![Strideon Logo](https://github.com/nexaerio/strideon/blob/master/logo.png)
 
 Strideon is more than just a task management app; it's your personal project companion. Maximize your productivity with our intuitive kanban boards, allowing you to visualize and streamline your tasks effortlessly.
 
@@ -44,12 +44,12 @@ Follow these steps to set up and run Strideon on your local machine:
    ```bash
    git clone https://github.com/nexaerio/strideon.git
 
-3. **Navigate to the project directory:**
+2. **Navigate to the project directory:**
  
    ```bash
    cd strideon-app
    
-5. **Install dependencies:**
+3. **Install dependencies:**
 
    ```bash
    flutter pub get
