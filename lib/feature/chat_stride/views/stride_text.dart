@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_gemini/google_gemini.dart';
 import 'package:strideon/utils/constants/colors.dart';
 
-const apiKey = "AIzaSyANGgsMkR6tEkMgHraZLbOvHtwq7PzRna0";
+const apiKey = "";
 
 class StrideText extends StatefulWidget {
   const StrideText({Key? key}) : super(key: key);
