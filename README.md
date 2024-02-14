@@ -53,6 +53,5 @@ Follow these steps to set up and run Strideon on your local machine:
    ```bash
    flutter pub get
 
- 
-[![Read More:](https://github.com/Medium/medium-logos/blob/master/02_Wordmark/02_White/PNG/RGB/Medium-Wordmark-White-RGB%401x.png)](https://medium.com/@nexaerio/strideon-unleashing-efficiency-in-project-and-task-management-fe265eb0d2b0)
+[![Read More:](https://github.com/Medium/medium-logos/blob/master/03_Symbol/02_White/PNG/RGB/Medium-Symbol-White-RGB%401x.png)](https://medium.com/@nexaerio/strideon-unleashing-efficiency-in-project-and-task-management-fe265eb0d2b0)
 
