@@ -1,7 +1,5 @@
 # Strideon - Elevate Your Efficiency 🚀
 
-##Open Source Trello Alternative
-
 ![Strideon Logo](https://github.com/nexaerio/strideon/blob/master/logo.png)
 
 Strideon is more than just a task management app; it's your personal project companion. Maximize your productivity with our intuitive kanban boards, allowing you to visualize and streamline your tasks effortlessly.
@@ -16,7 +14,7 @@ Strideon is more than just a task management app; it's your personal project com
 - **Project Management:** Strideon goes beyond tasks, empowering you to manage entire projects. Collaborate seamlessly, assign tasks, and track progress effortlessly.
 - **Image-Text AI:** Experience cutting-edge AI technology that allows you to extract valuable information from images effortlessly. No more manual data entry – let Strideon do the heavy lifting.
 
-## Targeted Keyword 🎯
+## Open Source Trello Alternative 🎯
 
 "Task Management, Kanban, Todo Project Management"
 
