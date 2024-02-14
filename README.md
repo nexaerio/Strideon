@@ -43,19 +43,15 @@ Follow these steps to set up and run Strideon on your local machine:
 
    ```bash
    git clone https://github.com/nexaerio/strideon.git
-Navigate to the project directory:
+#!/bin/bash
 
-bash
-Copy code
+# Navigate to the project directory
 cd strideon-app
-Install dependencies:
 
-bash
-Copy code
+# Install dependencies
 flutter pub get
-Run the app:
 
-bash
-Copy code
+# Run the app
 flutter run
+
 
