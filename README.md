@@ -32,8 +32,7 @@ Strideon is not just about managing tasks; it's about achieving your goals effic
 
 Download Strideon now and revolutionize your approach to task management!
 
-[![Download on the App Store](link-to-app-store-badge.png)](link-to-app-store)
-[![Get it on Google Play](link-to-google-play-badge.png)](link-to-google-play)
+**Coming Soon**
 
 ## Getting Started 💻
 
