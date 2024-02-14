@@ -55,5 +55,5 @@ Follow these steps to set up and run Strideon on your local machine:
 
 ## Read More: 
 
-[![Read More:](https://github.com/Medium/medium-logos/blob/master/01_Logo/02_White/PNG/RGB/Medium-Logo-White-RGB%401x.png)](https://medium.com/@nexaerio/strideon-unleashing-efficiency-in-project-and-task-management-fe265eb0d2b0)
+[![Read More:](https://github.com/Medium/medium-logos/blob/master/01_Logo/03_Two_Color/02_White_Black/PNG/RGB/Medium-Logo-Two-Color-White-Black-RGB%401x.png)](https://medium.com/@nexaerio/strideon-unleashing-efficiency-in-project-and-task-management-fe265eb0d2b0)
 
