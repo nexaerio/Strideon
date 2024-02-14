@@ -37,19 +37,25 @@ Download Strideon now and revolutionize your approach to task management!
 
 ## Getting Started 💻
 
+Follow these steps to set up and run Strideon on your local machine:
+
 1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/nexaerio/strideon.git
-2. **Navigate to the project directory:**
-```bash
+Navigate to the project directory:
+
+bash
+Copy code
 cd strideon-app
+Install dependencies:
 
-3. **Install dependencies:**
-```bash
+bash
+Copy code
 flutter pub get
+Run the app:
 
-##Contributing 🤝
-**We welcome contributions! Please follow the guidelines outlined in CONTRIBUTING.md.**
-
+bash
+Copy code
+flutter run
 
